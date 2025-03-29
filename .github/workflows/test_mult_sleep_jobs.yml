@@ -1,0 +1,368 @@
+name: invoke sleep job
+run-name: ${{ github.actor }} is invoke sleep job
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  job_1:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_2:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_3:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_4:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_5:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_6:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_7:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_8:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_9:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_10:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_11:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_12:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_13:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_14:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_15:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_16:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_17:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_18:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_19:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_20:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_21:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_22:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_23:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_24:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_25:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_26:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_27:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_28:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_29:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_30:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_31:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_32:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_33:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_34:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_35:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_36:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_37:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_38:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_39:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_40:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_41:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_42:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_43:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_44:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_45:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_46:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_47:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_48:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_49:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_50:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_51:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_52:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_53:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_54:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_55:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_56:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_57:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_58:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_59:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
+  job_60:
+    runs-on: ubuntu-latest #arc-runner-set-server
+    steps:
+      - name: sleeping job
+        run: |
+          sleep 259200
