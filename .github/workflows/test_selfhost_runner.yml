@@ -1,6 +1,6 @@
 name: Actions Runner Controller Demo 
 run-name: ${{ github.actor }} is making PR or Push
-on:
+on: 
   pull_request: 
     types: [opened, synchronize, reopened]
     branches: 
