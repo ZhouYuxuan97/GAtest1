@@ -10,7 +10,7 @@ on:
 
 jobs:
   build:
-    runs-on: arc-runner-set-c54x #ubuntu-latest 
+    runs-on: ubuntu-latest  #arc-runner-set-c54x #
 
     steps:
     - name: Install dependencies
