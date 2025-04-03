@@ -1,6 +1,10 @@
 name: invoke sleep job
 run-name: ${{ github.actor }} is invoke sleep job
 on:
+  pull_request:  
+    types: [opened, synchronize, reopened]
+    branches:  
+      - main 
   push:
     branches:
       - main
